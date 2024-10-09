@@ -1,4 +1,6 @@
 {
+  "homepage": "https://jiannotti66.github.io/jacksportfolio",
+  "name": "jacksportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
